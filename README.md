@@ -1,0 +1,3 @@
+- Interfaces Consultable / Empruntable
+- Bibliothèque gère l'ajout ou le remove des medias
+- Classes : DVD - Enregistrement - Livre- Magazines - Journaux héritent de la classe parent Media
